@@ -1,0 +1,38 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Recipe</title>
+</head>
+<body>
+    <!-- Your content goes here -->
+    <h1>Lasagna</h1>
+    <p>Lasagna, also known by the plural form lasagne, is a type of pasta made in very wide, flat sheets</p>
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Cheese</li>
+      <li>Meat</li>
+      <li>Lasagna noodles</li>
+      <li>Sugar</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+      <li>Make the meat sauce</li>
+      <li>Cook the noodles</li>
+      <li>Cook the noodles</li>
+      <li>Make the ricotta mixture</li>
+      <li>Layer the lasagna according to the recipe instructions</li>
+      <li>Cover with foil and bake</li>
+    </ol>
+
+    <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo387PqLmpvAkrErqRreMAX_fZ6wph1v_zeX3AzwHu-2OFp1_KrvMOh9nLs67yKv5RqiM-ugB7tkwOl6RF3geQUviTUFfvk1Z32gDYKeTozA" alt="A slice of lasagna">
+</body>
+</html>
+
+** end of index.html **
+
